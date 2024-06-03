@@ -1,1 +1,1 @@
-# 2024 Summer Break Project - Building Intranet High Availability System
+# 2024 Summer Break Project - Building High Availability System
